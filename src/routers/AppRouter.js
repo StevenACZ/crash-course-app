@@ -13,7 +13,7 @@ export const AppRouter = () => {
   const { user } = useContext( AuthContext );
 
   return (
-    <Router>
+    <Router basename={ process.env.PUBLIC_URL }>
       <Switch>
         <PublicRoute
           exact

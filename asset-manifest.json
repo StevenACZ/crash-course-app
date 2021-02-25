@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/crash-course-app/static/css/main.d74021e7.chunk.css",
-    "main.js": "/crash-course-app/static/js/main.41c46af2.chunk.js",
-    "main.js.map": "/crash-course-app/static/js/main.41c46af2.chunk.js.map",
+    "main.js": "/crash-course-app/static/js/main.6f92725a.chunk.js",
+    "main.js.map": "/crash-course-app/static/js/main.6f92725a.chunk.js.map",
     "runtime-main.js": "/crash-course-app/static/js/runtime-main.9bd23aa3.js",
     "runtime-main.js.map": "/crash-course-app/static/js/runtime-main.9bd23aa3.js.map",
     "static/css/2.1e58ee36.chunk.css": "/crash-course-app/static/css/2.1e58ee36.chunk.css",
-    "static/js/2.8db9b97f.chunk.js": "/crash-course-app/static/js/2.8db9b97f.chunk.js",
-    "static/js/2.8db9b97f.chunk.js.map": "/crash-course-app/static/js/2.8db9b97f.chunk.js.map",
+    "static/js/2.f963e66a.chunk.js": "/crash-course-app/static/js/2.f963e66a.chunk.js",
+    "static/js/2.f963e66a.chunk.js.map": "/crash-course-app/static/js/2.f963e66a.chunk.js.map",
     "index.html": "/crash-course-app/index.html",
     "static/css/2.1e58ee36.chunk.css.map": "/crash-course-app/static/css/2.1e58ee36.chunk.css.map",
     "static/css/main.d74021e7.chunk.css.map": "/crash-course-app/static/css/main.d74021e7.chunk.css.map",
-    "static/js/2.8db9b97f.chunk.js.LICENSE.txt": "/crash-course-app/static/js/2.8db9b97f.chunk.js.LICENSE.txt"
+    "static/js/2.f963e66a.chunk.js.LICENSE.txt": "/crash-course-app/static/js/2.f963e66a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9bd23aa3.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.8db9b97f.chunk.js",
+    "static/js/2.f963e66a.chunk.js",
     "static/css/main.d74021e7.chunk.css",
-    "static/js/main.41c46af2.chunk.js"
+    "static/js/main.6f92725a.chunk.js"
   ]
 }

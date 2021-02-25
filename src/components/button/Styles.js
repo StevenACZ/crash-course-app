@@ -1,0 +1,56 @@
+import styled from 'styled-components';
+
+import { Button } from 'antd'; 
+
+export const StyledButton = styled( Button )`
+  height: 48px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 800;
+
+  ${({ outline }) =>
+    outline === 1
+      &&
+        `
+          background-color: white;
+          color: black;
+          border: 1px solid #181b32;
+        `
+  }
+
+  ${({ outline }) =>
+    outline === 3
+      &&
+        `
+          background-color: white;
+          color: black;
+          border: 3px solid #181b32;
+        `
+  }
+  
+  ${({ dropdown }) =>
+    dropdown === "true"
+      &&
+        `
+          background-color: white;
+          color: black;
+          border: 1px solid #8d8d9d;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          
+          span {
+            font-weight: 400;
+            text-transform: none;
+            color: #8d8d9d;
+            font-size: 16px;
+          }
+        `
+  }
+`;
